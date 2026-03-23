@@ -22,6 +22,7 @@
 
 ## 📊 GitHub Stats
 - Learning consistently and building projects 🚀
+- ![Srians's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriansKumarNayak&show_icons=true&theme=radical)
 
 ---
 
